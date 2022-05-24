@@ -1,0 +1,24 @@
+pref [ 1 2 2 2 3 3 3 ]
+suff [ 1 1 2 2 2 3 3 ]
+mid 3
+mid 1
+res 1
+pref [ 0 2 4 6 8 8 ]
+suff [ 0 2 4 6 8 8 ]
+mid 4
+mid 3
+res 3
+pref [ 4 4 4 4 4 4 4 ]
+suff [ 4 4 4 4 4 4 4 ]
+mid 3
+mid 1
+mid 0
+res 0
+pref [ 10 ]
+suff [ 10 ]
+res 0
+pref [ 0 0 0 0 0 ]
+suff [ 0 0 0 0 0 ]
+mid 2
+mid 0
+res 0
